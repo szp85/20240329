@@ -1,0 +1,4 @@
+switch (delete ) {
+    k
+
+}
